@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="web_empresa_bd" default="default" basedir=".">
+    <description>Builds, tests, and runs the project web_empresa_bd.</description>
+    <import file="nbproject/build-impl.xml"/>
+
+</project>
