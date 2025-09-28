@@ -1,8 +1,7 @@
-
 <%-- 
-    Document   : index
-    Created on : 11/08/2020, 15:53:07
-    Author     : paiz2
+    Document   : index.
+    Created on : 27 sept 2025, 22:02:22
+    Author     : Kemberly Donis
 --%>
 
 <%@page import="modelo.Puesto" %>
